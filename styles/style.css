@@ -63,6 +63,7 @@ button {
     border-radius: 30px;
     margin-top: 1rem;
     font-size: 17px;
+    cursor: pointer;
 }
 
 .card:hover {
